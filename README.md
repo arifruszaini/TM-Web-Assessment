@@ -13,7 +13,7 @@
 
 # List of Improvements
 
-- Login Page and Dashboard pages
+- Login Page, Dashboard page and Location Jobs page.
 
 - Already stated in website.
 

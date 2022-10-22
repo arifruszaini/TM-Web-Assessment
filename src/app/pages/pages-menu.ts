@@ -230,6 +230,10 @@ export const MENU_ITEMS: NbMenuItem[] = [
         title: 'Dashboard',
         link: '/pages/iot-dashboard',
       },
+      {
+        title: 'Location of Jobs',
+        link: '/pages/maps/gmaps',
+      },
       /*{
         title: 'Request Password',
         link: '/auth/request-password',
